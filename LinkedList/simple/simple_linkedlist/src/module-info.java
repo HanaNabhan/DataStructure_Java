@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module simple_linkedlist {
-}
