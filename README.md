@@ -25,4 +25,8 @@ Stacks are data structures that follow the Last In, First Out (LIFO) principle. 
 - **fixed-size**: stack implemented using an array.
 - **dynamic stack**: implemented using a linked list.
 
+### 6. **Queue**
+- **Queue Using Array**: A basic queue implemented using an array.
+- **Queue Using Linked List**: A queue implementation that uses a linked list for dynamic memory management.
+- **Priority Queue**: A queue where elements are dequeued based on priority, with the highest priority elements dequeued first.
 
