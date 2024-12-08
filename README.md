@@ -20,4 +20,9 @@ This repository contains my implementation of various data structures and algori
 - **Simple Linked List**: A basic linked list where each node points to the next.
 - **Circular Linked List**: A linked list where the last node points back to the first, forming a circle.
 
+### 5. **Stack**
+Stacks are data structures that follow the Last In, First Out (LIFO) principle. Below are the two implementations provided in this repository:
+- **fixed-size**: stack implemented using an array.
+- **dynamic stack**: implemented using a linked list.
+
 
