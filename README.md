@@ -29,4 +29,5 @@ Stacks are data structures that follow the Last In, First Out (LIFO) principle. 
 - **Queue Using Array**: A basic queue implemented using an array.
 - **Queue Using Linked List**: A queue implementation that uses a linked list for dynamic memory management.
 - **Priority Queue**: A queue where elements are dequeued based on priority, with the highest priority elements dequeued first.
+- **Circular Queue**: A queue where elements are like a circle to save memory space, it implemented by array.
 
