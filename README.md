@@ -42,3 +42,5 @@ Binary Search Trees are a hierarchical data structure where each node has at mos
 - **Traversal**: In-order, pre-order, and post-order traversal methods.
 
 - **Deletion**: Removing elements while maintaining BST properties.
+
+in this repo you will find 2 implementation for BST , 1 with recursion and the other with loops
