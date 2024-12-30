@@ -31,3 +31,14 @@ Stacks are data structures that follow the Last In, First Out (LIFO) principle. 
 - **Priority Queue**: A queue where elements are dequeued based on priority, with the highest priority elements dequeued first.
 - **Circular Queue**: A queue where elements are like a circle to save memory space, it implemented by array.
 
+### 7.**Binary Search Tree (BST)** 
+
+Binary Search Trees are a hierarchical data structure where each node has at most two children, referred to as the left and right child. Each node’s key is greater than all keys in its left subtree and smaller than all keys in its right subtree.
+
+- **Insertion**: Adding elements while maintaining BST properties.
+
+- **Search**: Efficiently finding an element in the tree.
+
+- **Traversal**: In-order, pre-order, and post-order traversal methods.
+
+- **Deletion**: Removing elements while maintaining BST properties.
